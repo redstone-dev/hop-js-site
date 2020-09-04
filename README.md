@@ -1,1 +1,1 @@
-# hop-js-site
+# Hop.js
